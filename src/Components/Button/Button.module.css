@@ -1,0 +1,13 @@
+.bttns {
+  color: #707070;
+  background-color: #e4e4e4;
+  border: 1px solid #707070;
+  border-radius: 10px;
+  padding: 0.5rem 0.5rem;
+  transition: padding 0.5s, background-color 0.5s;
+}
+
+.bttns:hover {
+  background-color: #fcfcfc;
+  padding: 0.6rem 0.5rem;
+}
